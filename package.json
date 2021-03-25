@@ -1,0 +1,18 @@
+{
+  "name": "coffee-order",
+  "version": "1.0.0",
+  "description": "order coffee in the command line",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "coffee-app"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "yargs": "^16.2.0"
+  }
+}
